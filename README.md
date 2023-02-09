@@ -3,7 +3,7 @@
 ## Union Find (서로소 인가?)
 두 원소(node)가 서로 겹치는게 없는가? 그렇다면 서로 서로소 관계이다.
 
-- 두 건달은 뽀삐 덕분에 서로소 관계는 아니다. - 장삐쭈 단편선 [시비]
+- 두 건달은 뽀삐 덕분에 서로소 관계는 아니다. (~~사실 서로소다 이름이 같은 뽀비일뿐.. ~~) - 장삐쭈 단편선 [시비]
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/13_yNqnlppM/0.jpg)](https://www.youtube.com/watch?v=13_yNqnlppM)
 
