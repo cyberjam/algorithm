@@ -3,7 +3,7 @@
 ## Union Find (서로소 인가?)
 두 원소(node)가 서로 겹치는게 없는가? 그렇다면 서로 서로소 관계이다.
 
-- 두 건달은 서로소다. ~~뽀삐 이름 같다고~~ 장삐쭈 단편선 [시비]
+- 뽀삐는 동명이견일 뿐 두 건달은 명백히 서로소이다. 장삐쭈 단편선 [시비]
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/13_yNqnlppM/0.jpg)](https://www.youtube.com/watch?v=13_yNqnlppM)
 
@@ -22,6 +22,6 @@
 
 최익현과 당담검사 사이 서로소인지 확인하는 걸 is_same_root
 
-is_same_root가 True로 나올 것이므로 서로소 관계가 아니다.
+is_same_root가 True로 나올 것이므로 서로소가 아니다.
 
 ---
