@@ -24,8 +24,8 @@
 
 is_same_root가 True로 나올 것이므로 서로소가 아니다.
 
-[Union Find python code 바로가기](https://github.com/cyberjam/algorithm/blob/master/union_find.py)
-[Union Find 백준문제 - 집합의 표현 1717번](https://github.com/cyberjam/algorithm/blob/master/union_find_q_1717.py)
+- [Union Find python code 바로가기](https://github.com/cyberjam/algorithm/blob/master/union_find.py)
+- [Union Find 백준문제 - 집합의 표현 1717번](https://github.com/cyberjam/algorithm/blob/master/union_find_q_1717.py)
 
 
 ---
