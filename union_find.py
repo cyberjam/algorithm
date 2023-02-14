@@ -6,7 +6,8 @@ def find_root(node_list, node):
   if is_root:
     return node
   else: 
-    return find_root(node_list, node_list[node])
+    node_list[node] = find_root(node_list, node_list[node])
+    return node_list[node]
     
 def union_root(node_list, node_a, node_b):
   node_a_root = find_root(node_list, node_a)
